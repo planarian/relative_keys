@@ -6,7 +6,7 @@ Relative Keys is a tool for transposing the solfege sequence to any of the 88 ke
 ![screenshot](./relkeys_screenshot.jpg)
 
 
-A Windows binary is [available](http://www.github.com/relative_keys_bin) which includes all dependencies except for the soundfont. The reason is that while the web is awash in "free" soundfonts, very few of them are demonstrably in the public domain (It's on the large side, but [this one](http://www.schristiancollins.com/generaluser.php) seems more likely than most). Provided that the file contains a piano track and is named "piano.sf2," Relative Keys should be able to use it.
+A Windows binary is [available](http://www.github.com/planarian/relative_keys_bin) which includes all dependencies except for the soundfont. The reason is that while the web is awash in "free" soundfonts, very few of them are demonstrably in the public domain (It's on the large side, but [this one](http://www.schristiancollins.com/generaluser.php) seems more likely than most). Provided that the file contains a piano track and is named "piano.sf2," Relative Keys should be able to use it.
 
 
 ## Compiling from source
