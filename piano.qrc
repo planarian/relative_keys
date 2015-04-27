@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/splash.png</file>
+        <file>img/play.png</file>
+        <file>img/sustain.png</file>
+        <file>img/transpose.png</file>
+    </qresource>
+</RCC>
