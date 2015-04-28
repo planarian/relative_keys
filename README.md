@@ -2,6 +2,8 @@
 
 Relative Keys is a tool for transposing the solfege sequence to any of the 88 keys on a standard piano. This is useful for developing functional pitch recognition, as it allows the playing of scales, melodies, and chords in any key without reference to absolute pitches. However, these pitches can still be seen on the standard keyboard, making it a good aid for transcription.
 
+For example, The key of A-flat major consists of the sequence A-flat, B-flat, C, D-flat, E-flat, F, G. Typically, music students who want to play only notes within the key have to remember which ones are flatted. By transposing A-flat on the piano to "do" on the solfège keyboard, they can stay within the key simply by using the major-scale sequence do, re, mi, fa, sol, la, ti. 
+
 
 ![screenshot](./relkeys_screenshot.jpg)
 
