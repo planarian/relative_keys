@@ -40,7 +40,7 @@ RESOURCES += \
 
 RC_FILE = pianoIcon.rc
 
-LIBS += D:\Mydocu~1\Programming\Cpp\Qt\RelativeKeys\libfluidsynth.dll
+LIBS += libfluidsynth.dll
 
 
 
